@@ -1,9 +1,7 @@
 {
-    "solargraph.autoformat": true,
-    "solargraph.commandPath": "/home/vscode/.asdf/installs/ruby/2.7.8/bin/solargraph",
     "[ruby]": {
-        "editor.defaultFormatter": "castwide.solargraph",
-        "editor.formatOnSave": true,
-        "editor.tabSize": 2
-    }
+        "editor.defaultFormatter": "castwide.solargraph"
+    },
+    "solargraph.autoformat": true,
+    "solargraph.formatting": true,
 }
